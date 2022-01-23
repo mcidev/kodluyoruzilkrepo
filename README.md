@@ -8,8 +8,10 @@ https://github.com/mcidev/kodluyoruzilkrepo.git
 Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
 Linux için:
 '''
+{
 cd kodluyoruzilkrepo
 code.
+}
 '''
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, önce neyi değiştirmek istediğinizi tartışmak için konu açınız.
