@@ -3,7 +3,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 ![Resim](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
 ## Installation
 Öncelikle projeyi clonelayın. 
-`https://github.com/mcidev/kodluyoruzilkrepo.git`
+```
+https://github.com/mcidev/kodluyoruzilkrepo.git
+```
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
 Linux için:
